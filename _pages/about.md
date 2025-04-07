@@ -27,7 +27,7 @@ If you would like to communicate or collaborate with me, please send an email to
 
 
 
-<div style="margin-top: 100px; display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
+<div style="margin-top: 200px; display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
     <div style="flex: 0 0 200px;">
         <img src="images/MAMC.png" alt="MAMC Framework" style="width: 100%; height: auto;">
     </div>
