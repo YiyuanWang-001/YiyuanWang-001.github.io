@@ -10,7 +10,8 @@ My name is Yiyuan Wang, and I currently reside in Chaoyang, Beijing. I am studyi
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
 
-**Recent News**: 🚀🚀 One paper accepted as Co-first in ICLR-2025 
+📢**Recent News**: 
+🚀🚀 One paper accepted as Co-first in ICLR-2025 
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
