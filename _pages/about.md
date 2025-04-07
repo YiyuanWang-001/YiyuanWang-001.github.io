@@ -13,8 +13,7 @@ If you would like to communicate or collaborate with me, please send an email to
 📢**Recent News**: 
 🚀🚀 One paper accepted as Co-first in ICLR-2025 
 
-
-<div style="display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin: 0 auto;">
+<div style="margin-top: 30px; display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
     <div style="flex: 0 0 200px;">
         <img src="MAMC.png" alt="MAMC Framework" style="width: 100%; height: auto;">
     </div>
