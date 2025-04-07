@@ -6,4 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yiyuan Wang, and I currently reside in Chaoyang, Beijing. I am studying at the School of Computer Science and Technology, Beijing University of Technology, and I am expected to obtain my Bachelor's degree in June 2025. At the moment, I am also a remote intern at the Hong Kong University of Science and Technology (HKUST-GZ). My research interests focus on multi-view learning, hyperbolic learning, and contrastive learning.
+My name is Yiyuan Wang, and I currently reside in Chaoyang, Beijing. I am studying at the School of Computer Science and Technology, Beijing University of Technology, and I am expected to obtain my Bachelor's degree in June 2025. At the moment, I am also a remote intern at the Hong Kong University of Science and Technology (HKUST-GZ). My research interests focus on **multi-view learning**, **hyperbolic learning**, and **contrastive learning**.
+
+If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
