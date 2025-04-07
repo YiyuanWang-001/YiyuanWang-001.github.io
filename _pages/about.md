@@ -28,7 +28,7 @@ If you would like to communicate or collaborate with me, please send an email to
 
 <div style="margin-top: 30px; display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
     <div style="flex: 0 0 200px;">
-        <img src="MAMC.png" alt="MAMC Framework" style="width: 100%; height: auto;">
+        <img src="images/MAMC.png" alt="MAMC Framework" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
         <h3 style="margin: 0 0 8px 0; font-size: 1.1em;">Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
