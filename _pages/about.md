@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, everyone！This is a personal website for Yiyuan Wang"
+title: "Yiyuan Wang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
