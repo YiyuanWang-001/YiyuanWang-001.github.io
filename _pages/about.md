@@ -14,7 +14,7 @@ If you would like to communicate or collaborate with me, please send an email to
 
 📢**Recent News**: 
 
-🚀🚀 One paper accepted as Co-first in ICLR-2025 
+🚀🚀 One paper(My Dissertation) accepted as Co-first in ICLR-2025 
 
 
 
