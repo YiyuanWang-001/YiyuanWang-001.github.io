@@ -13,11 +13,11 @@ If you would like to communicate or collaborate with me, please send an email to
 **Recent News**: 🚀🚀 One paper accepted as Co-first in ICLR-2025 
 
 
-![Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary](path-to-your-image.png)
+![Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary](MAMC.png)
 
 ### Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary
 
-[Paper](URL)
+[Paper]([URL](https://openreview.net/pdf?id=t1J2CnDFwj))
 
 Y. Lin, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.
 
