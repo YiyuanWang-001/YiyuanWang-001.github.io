@@ -34,7 +34,7 @@ If you would like to communicate or collaborate with me, please send an email to
     <div style="flex: 1;">
         <h3 style="margin: 0 0 8px 0; font-size: 1.1em;">Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
         <p style="margin: 0 0 6px 0; font-size: 0.9em;"><a href="https://openreview.net/pdf?id=t1J2CnDFwj">Paper</a></p>
-        <p style="margin: 0 0 6px 0; font-size: 0.9em;"><small>Y. Lin, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.</small></p>
+        <p style="margin: 0 0 6px 0; font-size: 0.9em;"><small>Y. Lin*, **Y. Wang***, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.</small></p>
         <p style="margin: 0; font-size: 0.85em; line-height: 1.4;">In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.</p>
     </div>
 </div>
