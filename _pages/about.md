@@ -13,13 +13,14 @@ If you would like to communicate or collaborate with me, please send an email to
 **Recent News**: 🚀🚀 One paper accepted as Co-first in ICLR-2025 
 
 
-![Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary](MAMC.png)
-
-### Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary
-
-[Paper]([URL](https://openreview.net/pdf?id=t1J2CnDFwj))
-
-Y. Lin, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.
-
-In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.
-
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1;">
+        <img src="MAMC.png" alt="Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1;">
+        <h3>Enhance Multi-View Classification through Multi-Scale Alignment and Expanded Boundary</h3>
+        <p><a href="https://openreview.net/pdf?id=t1J2CnDFwj">Paper</a></p>
+        <p>Y. Lin, Y. Wang, G. Lyu, Y. Deng, H. Cai, H. Lin, H. Wang, Z. Yang.</p>
+        <p>In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.</p>
+    </div>
+</div>
