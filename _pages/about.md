@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, everyone！This is a personal website for Yiyuan Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello World
+My name is Yiyuan Wang, and I currently reside in Chaoyang, Beijing. I am studying at the School of Computer Science and Technology, Beijing University of Technology, and I am expected to obtain my Bachelor's degree in June 2025. At the moment, I am also a remote intern at the Hong Kong University of Science and Technology (HKUST-GZ). My research interests focus on multi-view learning, hyperbolic learning, and contrastive learning.
