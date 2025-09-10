@@ -12,10 +12,11 @@ My research interests focus on **3D Computer Vision**, **Vision-Language Foundat
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
 
-📢**Recent News**: 
-🚀🚀 I joined HKBU-ZhuHai as a PhD student in 2025.09
-🚀🚀 I obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06
-🚀🚀 One paper(Graduation Thesis) accepted as Co-first in ICLR-2025 
+📢**Recent News**: <br>
+🚀🚀 I joined HKBU-ZhuHai as a PhD student in 2025.09 <br>
+🚀🚀 I obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
+🚀🚀 One paper (Graduation Thesis) accepted as Co-first in ICLR-2025 <br>
+
 
 
 
