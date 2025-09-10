@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yiyuan Wang, and I currently reside in ZhuHai GuangDong. Now I am a Phd Student supervised by [Pro.Wentao Cheng](https://wtchengcv.github.io/) in HKBU-ZhuHai. And my research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.
-I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr.Yuena Lin](https://yuenalin.github.io/).<br>
-I also interned at the HKUST-GZ DIGAI Lab, where I studied hyperbolic learning under the guidance of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). I am deeply grateful for their guidance and support.<br>
+My name is Yiyuan Wang, and I currently reside in ZhuHai GuangDong. Now I am a Phd Student supervised by [Pro.Wentao Cheng](https://wtchengcv.github.io/) in HKBU-ZhuHai. And my research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.<br>
+I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr.Yuena Lin](https://yuenalin.github.io/).I also interned at the HKUST-GZ DIGAI Lab, where I studied hyperbolic learning under the guidance of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). I am deeply grateful for their guidance and support.<br>
 
-If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
+If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)<br>
 
 📢**Recent News**: <br>
 🚀🚀 I joined HKBU-ZhuHai as a PhD student in 2025.09 <br>
