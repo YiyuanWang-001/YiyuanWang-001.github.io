@@ -6,14 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yiyuan Wang, and I currently reside in ZhuHai, GuangDong. Now i am a Phd Student supervised by Pro.Wentao CHENG in HKBU-ZhuHai.
+My name is Yiyuan Wang, and I currently reside in ZhuHai, GuangDong. Now I am a Phd Student supervised by [Pro.Wentao Cheng](https://wtchengcv.github.io/) in HKBU-ZhuHai.
 
 My research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
 
 📢**Recent News**: 
-
+🚀🚀 I joined HKBU-ZhuHai as a PhD student in 2025.09
+🚀🚀 I obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06
 🚀🚀 One paper(Graduation Thesis) accepted as Co-first in ICLR-2025 
 
 
