@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yiyuan Wang, and I currently reside in Chaoyang, Beijing. I am studying at the School of Computer Science and Technology, Beijing University of Technology, and I am expected to obtain my Bachelor's degree in June 2025. 
+My name is Yiyuan Wang, and I currently reside in ZhuHai, GuangDong. Now i am a Phd Student supervised by Pro.Wentao CHENG in HKBU-ZhuHai.
 
-At the moment, I am also a remote intern at the Hong Kong University of Science and Technology (HKUST-GZ). My research interests focus on **Multi-View Learning**, **Hyperbolic Learning**, and **Contrastive Learning**.
+My research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)
 
