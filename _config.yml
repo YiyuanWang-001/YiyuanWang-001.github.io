@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "people.png"
+  avatar           : "3953273590_704e3899d5_m.jpg"
   name             : #"YiyuanWang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "China Peking"
+  location         : "China GuangDong Zhu-Hai"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "YiyuanWang001@outlook.com" 
