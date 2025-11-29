@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 My name is Yiyuan Wang, and I currently reside in ZhuHai GuangDong. Now I am a Phd Student supervised by [Prof. Wentao Cheng](https://wtchengcv.github.io/) in BNBU(HKBU-ZhuHai). And my research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.<br>
-I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr. Yuena Lin](https://yuenalin.github.io/). I also interned at the HKUST-GZ DIGAI Lab, where I studied hyperbolic learning under the guidance of [Prof. Menglin Yang](https://yangmenglinsite.github.io/). I am deeply grateful for their guidance and support.<br>
+I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr. Yuena Lin](https://yuenalin.github.io/). I am deeply grateful for their guidance and support.<br>
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)<br>
 
 📢**Recent News**: <br>
-🚀🚀 I joined BNBU(HKBU-ZhuHai) as a PhD student in 2025.09 <br>
-🚀🚀 I obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
-🚀🚀 One paper (Graduation Thesis) accepted as Co-first in ICLR-2025 <br>
+
+joined BNBU(HKBU-ZhuHai) as a PhD student in 2025.09 <br>
+Outstanding Graduate Thesis 北京市优秀毕业设计（论文）(Top 0.7%)
+obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
+One paper accepted in ICLR-2025 <br>
 
 
 
