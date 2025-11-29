@@ -13,10 +13,10 @@ If you would like to communicate or collaborate with me, please send an email to
 
 📢**Recent News**: <br>
 
-joined BNBU(HKBU-ZhuHai) as a PhD student in 2025.09 <br>
-Outstanding Graduate Thesis In BeiJing CN 北京市优秀毕业设计（论文）(Top 0.7%)<br>
-obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
-One paper accepted in ICLR-2025 <br>
+🚀🚀joined BNBU(HKBU-ZhuHai) as a PhD student in 2025.09 <br>
+🚀🚀Outstanding Graduate Thesis In BeiJing CN 北京市优秀毕业设计（论文）(Top 0.7%)<br>
+🚀🚀obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
+🚀🚀One paper accepted in ICLR-2025 <br>
 
 
 
